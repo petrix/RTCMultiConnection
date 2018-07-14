@@ -1,5 +1,5 @@
 {
-  "name": "rtcmulticonnection",
+  "name": "rtcmulticonnection-project",
   "preferGlobal": false,
   "version": "3.4.5",
   "author": {
@@ -43,6 +43,7 @@
     "muaz-khan"
   ],
   "dependencies": {
+    "rtcmulticonnection": "^3.4.5",
     "socket.io": "latest"
   },
   "analyze": false,
