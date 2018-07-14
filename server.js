@@ -76,8 +76,7 @@ try {
 var options = {
     key: ssl_key,
     cert: ssl_cert,
-    ca: ssl_cabundle,
-    passphrase: 'p3xx'
+    ca: ssl_cabundle
 };
 
 // You don't need to change anything below
